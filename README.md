@@ -1,0 +1,2 @@
+# Python
+僕のPythonのGUIです。
